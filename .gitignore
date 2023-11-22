@@ -4,3 +4,4 @@ venv
 input/*
 output/*
 !*/.gitkeep
+**/__pychache__
